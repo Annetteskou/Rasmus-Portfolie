@@ -9,7 +9,7 @@ export default defineConfig(({ command }) => {
   };
 
   if (command !== "serve") {
-    config.base = "/cederdorff.github.io/";
+    config.base = "/Rasmus-Portfolie/";
   }
 
   return config;
