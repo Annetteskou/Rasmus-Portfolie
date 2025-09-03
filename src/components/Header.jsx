@@ -9,7 +9,7 @@ export default function Header() {
           <AnimatedText
             initialText="I'm"
             animatedTextArray={[
-              "Rasmus Cederdorff.",
+              "Annette Skou.",
               "a Senior Lecturer.",
               "a Web App Developer.",
               "a Dad."
